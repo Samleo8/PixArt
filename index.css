@@ -15,7 +15,7 @@ html{
     background-color: rgb(170, 211, 251);
 }
 
-.disableSelect{
+.disableSelect{ 
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
