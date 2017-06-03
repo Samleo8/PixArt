@@ -17,7 +17,7 @@ var filled = "blue";
 var confirmed = "green";
 
 //Random Values for Grid
-window.onload = function(){ 
+window.onload = function(){
 	document.getElementById("gridR").value = rand(3,12);
 	document.getElementById("gridC").value = rand(3,12);
 	loadGrid();
